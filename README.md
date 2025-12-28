@@ -15,7 +15,7 @@ I am a Senior Operator at **[AplyEase](LINK)** and a B.Tech IT Undergraduate. I 
 ## 🚀 Featured Engineering
 | Project | Tech Stack | Key Metric (The "Why") |
 | :--- | :--- | :--- |
-| **[FlashTix]([LINK](https://github.com/MohdArshad-cell/FlashTix-Backend))** | Java, Spring Boot, Redis | ⚡ **Sustained 5,000 concurrent users** on 4vCPU by fine-tuning HikariCP & Redis. |
+| **[FlashTix](https://github.com/MohdArshad-cell/FlashTix-Backend)** | Java, Spring Boot, Redis | ⚡ **Sustained 5,000 concurrent users** on 4vCPU by fine-tuning HikariCP & Redis. |
 | **[VerbaFlow](LINK)** | Spring AI, pgvector, Docker | 🔍 **Sub-second retrieval** on 10k+ document chunks using RAG & Cosine Similarity. |
 | **[StreamFlow](LINK)** | Kafka, WebSockets, MongoDB | 🌊 **Reduced network overhead by 60%** by replacing HTTP polling with WebSockets. |
 
