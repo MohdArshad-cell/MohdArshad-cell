@@ -17,7 +17,7 @@ I am a Senior Operator at **[AplyEase](LINK)** and a B.Tech IT Undergraduate. I 
 | :--- | :--- | :--- |
 | **[FlashTix](https://github.com/MohdArshad-cell/FlashTix-Backend)** | Java, Spring Boot, Redis | ⚡ **Sustained 5,000 concurrent users** on 4vCPU by fine-tuning HikariCP & Redis. |
 | **[VerbaFlow](LINK)** | Spring AI, pgvector, Docker | 🔍 **Sub-second retrieval** on 10k+ document chunks using RAG & Cosine Similarity. |
-| **[StreamFlow](LINK)** | Kafka, WebSockets, MongoDB | 🌊 **Reduced network overhead by 60%** by replacing HTTP polling with WebSockets. |
+| **[StreamFlow](https://github.com/MohdArshad-cell/StreamFlow-Backend)** | Kafka, WebSockets, MongoDB | 🌊 **Reduced network overhead by 60%** by replacing HTTP polling with WebSockets. |
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-arshad-156227314) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshadmohd8574@gmail.com)
