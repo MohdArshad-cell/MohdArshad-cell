@@ -15,7 +15,7 @@ I am a Senior Operator at **[AplyEase](LINK)** and a Backend Systems Architect. 
 ## 🚀 Featured Engineering
 | Project | Tech Stack | Key Metric (The "Why") |
 | :--- | :--- | :--- |
-| **[Career Catalyst](https://github.com/mohdarshad-cell/ai-powered-career-catalyst)** | Java, Python, Gemini 1.5 | 🤖 **Autonomous 4-Agent Loop** that iteratively refines content to achieve **90+ ATS scores** without human intervention. |
+| **[Career Catalyst](https://github.com/mohdarshad-cell/ai-powered-career-catalyst)** | Java, Python, Gemini 2.5 | 🤖 **Autonomous 4-Agent Loop** that iteratively refines content to achieve **90+ ATS scores** without human intervention. |
 | **[FlashTix](https://github.com/MohdArshad-cell/FlashTix-Backend)** | Java, Spring Boot, Redis | ⚡ **Sustained 5,000 concurrent users** on 4vCPU by fine-tuning HikariCP & implementing Distributed Locks. |
 | **[StreamFlow](https://github.com/MohdArshad-cell/StreamFlow-Backend)** | Kafka, WebSockets, MongoDB | 🌊 **Reduced network overhead by 60%** by replacing HTTP polling with Event-Driven WebSockets. |
 
