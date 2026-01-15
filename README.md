@@ -1,7 +1,7 @@
 # 💫 About Me
 ### Hi there 👋
 
-I am a Senior Operator at ** [AplyEase](https://github.com/ibrahimsaleem/aplyease) ** and a Backend Systems Architect. I specialize in building **Hybrid AI Architectures** (Java + Python) and optimizing high-concurrency distributed systems.
+I am a Senior Operator at **[AplyEase](https://github.com/ibrahimsaleem/aplyease)** and a Backend Systems Architect. I specialize in building **Hybrid AI Architectures** (Java + Python) and optimizing high-concurrency distributed systems.
 
 - 🔭 **Currently working on:** [GeoSentinel](https://github.com/mohdarshad-cell/GeoSentinal) – Real-time geopolitical tension analysis using data-driven AI & Granger Causality.
 - 💼 **Experience:** Software Engineer @ **AplyEase** (Scaled notification engines to 1M+ events/hr).
