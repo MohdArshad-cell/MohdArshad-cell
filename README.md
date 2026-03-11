@@ -1,5 +1,3 @@
----
-
 # 💫 Arshad_OS: Systems Architect & AI Engineer
 
 ### Initializing_Handshake 👋
