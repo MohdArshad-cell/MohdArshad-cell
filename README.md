@@ -71,7 +71,7 @@ Currently, I am navigating the transition from startup leadership to the **TATA 
 <p align="left">
 <a href="https://linkedin.com/in/mohd-arshad-156227314" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:arshadmohd8574@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="[https://your-portfolio-link.com](https://portfolio-2-0-sigma-gray.vercel.app/)" target="blank"><img align="center" src="https://img.shields.io/badge/Arshad_OS-00f3ff?logo=terminal&logoColor=black" alt="Portfolio" /></a>
+<a href="https://portfolio-2-0-sigma-gray.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Arshad_OS-00f3ff?logo=terminal&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 ---
