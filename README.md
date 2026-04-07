@@ -1,10 +1,10 @@
 # ⚡ Arshad\_OS v2.0 // Terminal Core
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/System\_Status-Online-00f3ff?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/System_Status-Online-00f3ff%3Fstyle%3Dflat-square)" /\>
-\<img src="[https://img.shields.io/badge/Node-LKO\_\_MAINFRAME-7000ff?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/Node-LKO__MAINFRAME-7000ff%3Fstyle%3Dflat-square)" /\>
-\<img src="[https://img.shields.io/badge/Security\_Clearance-Admin-emerald?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/Security_Clearance-Admin-emerald%3Fstyle%3Dflat-square)" /\>
-\</p\>
+<p align="center">
+<img src="[https://img.shields.io/badge/System\_Status-Online-00f3ff?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/System_Status-Online-00f3ff%3Fstyle%3Dflat-square)" />
+<img src="[https://img.shields.io/badge/Node-LKO\_\_MAINFRAME-7000ff?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/Node-LKO__MAINFRAME-7000ff%3Fstyle%3Dflat-square)" />
+<img src="[https://img.shields.io/badge/Security\_Clearance-Admin-emerald?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/Security_Clearance-Admin-emerald%3Fstyle%3Dflat-square)" />
+</p>
 
 ### 0x01\_Kernel\_Init
 
