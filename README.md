@@ -1,4 +1,3 @@
-````markdown
 # ⚡ Arshad_OS v2.0 // Terminal Core
 
 <p align="center">
@@ -25,18 +24,18 @@ I am **Mohd Arshad**, a Systems Architect specializing in **High-Concurrency Dis
 | **[StreamFlow](https://github.com/MohdArshad-cell/StreamFlow-Backend)** | **Event Streaming** | Zero-loss backbone processing **1M+ alerts/hr** via Kafka. |
 | **[Career Catalyst](https://github.com/mohdarshad-cell/ai-powered-career-catalyst)** | **Agentic RAG** | 98% ATS optimization using iterative LLM feedback loops. |
 
----
+
 
 ### 0x03_Technical_Stack
 
-```yaml
+
 Backplane: [Java Spring Boot 3, Python, Node.js]
 Data_Layer: [PostgreSQL, Redis (LUA), Apache Kafka]
 Cloud_Ops:  [OCI Generative AI Certified, Docker, Kubernetes]
 Intelligence: [Gemini 1.5 Pro, Neural Multi-Agent Orchestration]
-````
 
------
+
+
 
 ### 0x04\_System\_Telemetry
 
@@ -45,7 +44,7 @@ Intelligence: [Gemini 1.5 Pro, Neural Multi-Agent Orchestration]
 \<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell\&layout=compact\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray" /\>
 \</p\>
 
------
+
 
 ### 0x05\_Secure\_Uplinks
 
@@ -61,11 +60,8 @@ Intelligence: [Gemini 1.5 Pro, Neural Multi-Agent Orchestration]
 \</a\>
 \</p\>
 
------
+
 
 \<p align="center"\>
 \<b\>SYSTEM\_ID: MOHD\_ARSHAD // TERMINATING\_SESSION\</b\>
 \</p\>
-
-```
-```
