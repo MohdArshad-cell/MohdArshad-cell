@@ -37,12 +37,11 @@ I am **Mohd Arshad**, a Systems Architect specializing in **High-Concurrency Dis
 
 ### 0x04_System_Telemetry
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=nightowl&hide_border=true&bg_color=05060a&title_color=00f3ff&text_color=gray&icon_color=00f3ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell&layout=compact&theme=nightowl&hide_border=true&bg_color=05060a&title_color=00f3ff&text_color=gray" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MohdArshad-cell&theme=nightowl&hide_border=true" />
 </p>
 
----
 
 ### 0x05_Secure_Uplinks
 
