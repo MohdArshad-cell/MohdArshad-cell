@@ -28,51 +28,30 @@ I am **Mohd Arshad**, a Systems Architect specializing in **High-Concurrency Dis
 
 ### 0x03_Technical_Stack
 
-```yaml
+
 Backplane: [Java Spring Boot 3, Python, Node.js]
 Data_Layer: [PostgreSQL, Redis (LUA), Apache Kafka]
 Cloud_Ops:  [OCI Generative AI Certified, Docker, Kubernetes]
 Intelligence: [Gemini 1.5 Pro, Neural Multi-Agent Orchestration]
-````
-
------
-
-### 0x04\_System\_Telemetry
-
-<p align="left"\>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell\&show\_icons=true\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray\&icon\_color=00f3ff" /\>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell\&layout=compact\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray" /\>
+0x04_System_Telemetry
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=nightowl&hide_border=true&bg_color=05060a&title_color=00f3ff&text_color=gray&icon_color=00f3ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell&layout=compact&theme=nightowl&hide_border=true&bg_color=05060a&title_color=00f3ff&text_color=gray" />
 </p>
 
------
+0x05_Secure_Uplinks
+<p align="left">
+<a href="https://linkedin.com/in/mohd-arshad-156227314">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:arshadmohd8574@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+<a href="https://portfolio-2-0-sigma-gray.vercel.app/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-00f3ff%3Fstyle%3Dfor-the-badge%26logo%3Dterminal%26logoColor%3Dblack" />
+</a>
+</p>
 
-### 0x05\_Secure\_Uplinks
-
-\<p align="left"\>
-\<a href="https://linkedin.com/in/mohd-arshad-156227314"\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /\>
-\</a\>
-\<a href="mailto:arshadmohd8574@gmail.com"\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /\>
-\</a\>
-\<a href="https://portfolio-2-0-sigma-gray.vercel.app/"\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-00f3ff%3Fstyle%3Dfor-the-badge%26logo%3Dterminal%26logoColor%3Dblack" /\>
-\</a\>
-\</p\>
-
------
-
-\<p align="center"\>
-\<b\>SYSTEM\_ID: MOHD\_ARSHAD // TERMINATING\_SESSION\</b\>
-\</p\>
-
-```
-
-### Why your previous version failed:
-
-1.  **Escaped Characters:** You had `\_` instead of `_`. Markdown sees `\_` as a literal underscore character and stops rendering the bolding/italics.
-2.  **Broken HTML Tags:** You had `<p align=\"left\">` with backslashes. HTML tags must be clean: `<p align="left">`.
-3.  **Google Search Redirects:** Your image URLs were wrapped in `google.com/search?q=...`. I have replaced them with the direct `img.shields.io` links so the images actually load.
-
-**Pro-tip:** When you edit your GitHub profile, make sure you are in the **"Edit file"** tab and not accidentally pasting into a "Preview" window. Just overwrite everything with the code above.
-```
+<p align="center">
+<b>SYSTEM_ID: MOHD_ARSHAD // TERMINATING_SESSION</b>
+</p>
