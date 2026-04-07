@@ -39,7 +39,7 @@ I am **Mohd Arshad**, a Systems Architect specializing in **High-Concurrency Dis
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=MohdArshad-cell&theme=nightowl&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell&layout=compact&theme=nightowl&hide_border=true" />
 </p>
 
 
