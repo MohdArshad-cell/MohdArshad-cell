@@ -39,10 +39,10 @@ Intelligence: [Gemini 1.5 Pro, Neural Multi-Agent Orchestration]
 
 ### 0x04\_System\_Telemetry
 
-\<p align="left"\>
-\<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell\&show\_icons=true\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray\&icon\_color=00f3ff" /\>
-\<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell\&layout=compact\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray" /\>
-\</p\>
+<p align="left"\>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell\&show\_icons=true\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray\&icon\_color=00f3ff" /\>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell\&layout=compact\&theme=nightowl\&hide\_border=true\&bg\_color=05060a\&title\_color=00f3ff\&text\_color=gray" /\>
+</p>
 
 -----
 
