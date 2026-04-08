@@ -38,7 +38,6 @@ I am **Mohd Arshad**, a Systems Architect specializing in **High-Concurrency Dis
 ### 0x04_System_Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github" />
   <img height="165" src="https://streak-stats.demolab.com?user=MohdArshad-cell&theme=nightowl&hide_border=true" />
 </p>
 
