@@ -27,11 +27,32 @@
 
 ---
 
-### 📡 CONNECTED NODES (Secure Uplinks)
+### 📡 COMMUNICATION_LAYER // SECURE_UPLINKS
 
-* **Professional:** [linkedin.com/in/mohd-arshad-156227314](https://linkedin.com/in/mohd-arshad-156227314)
-* **Direct:** [arshadmohd8574@gmail.com](mailto:arshadmohd8574@gmail.com)
-* **Command Center:** [portfolio-2-0-sigma-gray.vercel.app](https://portfolio-2-0-sigma-gray.vercel.app/)
+<div align="left">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="padding-right: 10px;">
+        <a href="https://linkedin.com/in/mohd-arshad-156227314">
+          <img src="https://img.shields.io/badge/PROFESSIONAL_IDENTITY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+      <td style="padding-right: 10px;">
+        <a href="mailto:arshadmohd8574@gmail.com">
+          <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://portfolio-2-0-sigma-gray.vercel.app/">
+          <img src="https://img.shields.io/badge/ARCHITECT_PORTFOLIO-00F3FF?style=for-the-badge&logo=terminal&logoColor=black" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> [!IMPORTANT]
+> **Active Projects:** Currently architecting RAG-based systems and high-throughput event streams. Open to high-stakes collaboration.
 
 ---
 
