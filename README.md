@@ -69,8 +69,7 @@
 
 ### 📊 SYSTEM TELEMETRY
 <p align="center">
-  <img height="180" src="./github-stats.svg" />
-  <img height="180" src="./top-langs.svg" />
+  <img width="800" src="https://metrics.lecoq.io/MohdArshad-cell?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&lines=1&config.timezone=Asia%2FKolkata" />
 </p>
 
 <p align="right">
