@@ -9,15 +9,26 @@
 
 ---
 
-### 🏗️ ARCHITECTURAL STACK
-| Layer | Technologies | Engineering Philosophy |
-| :--- | :--- | :--- |
-| **Backplane** | Java (Spring Boot 3), Python, Node.js | Non-blocking I/O & Thread-safety. |
-| **Data Layer** | PostgreSQL, Redis (LUA), Kafka | Strong Consistency vs. High Availability. |
-| **Intelligence** | Gemini 1.5 Pro, Agentic RAG | Predictive modeling via Granger Causality. |
-| **Cloud Ops** | OCI, Docker, Kubernetes | Immutable infra & automated scaling. |
+### 🏗️ CORE_INFRASTRUCTURE // SYSTEM_DESIGN
 
----
+#### 01. COMPUTE_LAYER (Performance Engine)
+- **Engine:** Java 21 (Spring Boot 3), Python (FastAPI), Node.js (TypeScript)
+- **Philosophy:** Utilizing **Asynchronous Non-blocking I/O** and **Structured Concurrency** to minimize overhead in high-concurrency environments.
+- **Patterns:** Circuit Breakers (Resilience4j), Saga Pattern for Distributed Transactions.
+
+#### 02. DATA_INTEGRITY & STREAMING (Persistence)
+- **Storage:** PostgreSQL (Optimized Indexing), Redis (Atomic LUA Scripting)
+- **Backbone:** Apache Kafka (Event-Driven Architecture)
+- **Philosophy:** Balancing the **CAP Theorem**; favoring **Consistency** in financial modules (FlashTix) and **Availability** in predictive streams (GeoSentinel).
+
+#### 03. INTELLIGENCE_ORCHESTRATION (AI/ML)
+- **Models:** Gemini 1.5 Pro (Multi-modal), Custom Neural Multi-Agent Systems.
+- **Capability:** **Agentic RAG** with iterative feedback loops for 98% ATS accuracy and **Granger Causality** for geopolitical risk analysis.
+- **Philosophy:** Moving beyond static prompts to **Deterministic AI Orchestration**.
+
+#### 04. CLOUD_FABRIC (Operations)
+- **Environment:** OCI (Oracle Cloud), Docker, Kubernetes (K8s)
+- **Philosophy:** **Infrastructure as Code (IaC)**. Ensuring 100% environment parity between Dev/Prod through immutable containerization and automated CI/CD pipelines.
 
 ### 🚀 MISSION-CRITICAL DEPLOYMENTS
 
