@@ -69,8 +69,8 @@
 
 ### 📊 SYSTEM TELEMETRY
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f3ff&text_color=ffffff&icon_color=00f3ff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArshad-cell&layout=compact&theme=tokyonight&hide_border=true&title_color=00f3ff&text_color=ffffff" />
+  <img height="180" src="./github-stats.svg" />
+  <img height="180" src="./top-langs.svg" />
 </p>
 
 <p align="right">
