@@ -67,11 +67,6 @@
 
 ---
 
-### 📊 SYSTEM TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=dark" />
-</p>
 
 <p align="right">
   <sub>TIMESTAMP: 2026_Q2 // LOCATION: LKO_INDIA</sub>
