@@ -70,7 +70,7 @@
 ### 📊 SYSTEM TELEMETRY
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/MohdArshad-cell?template=terminal&languages=1&lines=1&config.timezone=Asia%2FKolkata" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohdArshad-cell&show_icons=true&theme=dark" />
 </p>
 
 <p align="right">
