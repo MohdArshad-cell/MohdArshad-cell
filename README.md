@@ -69,5 +69,5 @@
 
 
 <p align="right">
-  <sub>TIMESTAMP: 2026_Q2 // LOCATION: LKO_INDIA</sub>
+  <sub>TIMESTAMP: 2026 // LOCATION: LKO_INDIA</sub>
 </p>
