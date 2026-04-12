@@ -1,10 +1,10 @@
-# ⚡ MOHD ARSHAD | SYSTEMS ARCHITECT
-> **Engineering High-Concurrency Distributed Backends & Agentic AI Orchestration**
+# ⚡ MOHD ARSHAD | SYSTEMS ARCHITECT  
+> Architecting scalable backends, distributed systems, and AI orchestration engines  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Distributed_Systems-00f3ff?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-TCS_Systems_Engineer-emerald?style=for-the-badge&logo=tata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialty-AI_Orchestration-7000ff?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Systems_Engineer@TCS-emerald?style=for-the-badge&logo=tata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-AI_Orchestration-7000ff?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </div>
 
 ---
