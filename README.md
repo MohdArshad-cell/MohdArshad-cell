@@ -17,7 +17,7 @@
 - **Patterns:** Circuit Breakers (Resilience4j), Saga Pattern for Distributed Transactions.
 
 #### 02. DATA_INTEGRITY & STREAMING (Persistence)
-- **Storage:** PostgreSQL (Optimized Indexing), Redis (Atomic LUA Scripting)
+- **Storage:** PostgreSQL (Optimized Indexing), Redis Caching(Atomic LUA Scripting)
 - **Backbone:** Apache Kafka (Event-Driven Architecture)
 - **Philosophy:** Balancing the **CAP Theorem**; favoring **Consistency** in financial modules (FlashTix) and **Availability** in predictive streams (GeoSentinel).
 
