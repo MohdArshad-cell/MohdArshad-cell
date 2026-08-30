@@ -13,18 +13,47 @@
 
 ---
 
-### 📊 SYSTEM TELEMETRY & CAPABILITIES AT A GLANCE
+### 📊 SYSTEM TELEMETRY & METRICS DASHBOARD
 
-```text
-┌─────────────────────────┬──────────────────────────┬─────────────────────────┐
-│     PEAK THROUGHPUT     │    FRAUD INFERENCE p99   │   TRANSACTION MODEL     │
-│       10,000+ RPS       │         < 15 ms          │   Double-Entry (ACID)   │
-├─────────────────────────┼──────────────────────────┼─────────────────────────┤
-│    CONCURRENCY LOCK     │    STREAM RELIABILITY    │    RECOVERY PROTOCOL    │
-│  Redis Redlock + Lua    │   Kafka DLQ + 0% Loss    │   Saga Orchestration    │
-└─────────────────────────┴──────────────────────────┴─────────────────────────┘
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; background-color: #0b0f19; border: 1px solid #1f293d; border-radius: 10px; margin: 15px 0;">
+    <tr>
+      <td width="33%" align="center" style="padding: 16px; border: 1px solid #161f30;">
+        <span style="color: #64748b; font-size: 11px; font-family: monospace; letter-spacing: 1px;">⚡ PEAK THROUGHPUT</span><br/>
+        <strong style="color: #00f3ff; font-size: 20px; font-family: monospace;">10,000+ RPS</strong><br/>
+        <sub style="color: #94a3b8; font-size: 11px;">Low-Latency Non-Blocking I/O</sub>
+      </td>
+      <td width="33%" align="center" style="padding: 16px; border: 1px solid #161f30;">
+        <span style="color: #64748b; font-size: 11px; font-family: monospace; letter-spacing: 1px;">🧠 FRAUD EVALUATION p99</span><br/>
+        <strong style="color: #a855f7; font-size: 20px; font-family: monospace;">&lt; 15 ms</strong><br/>
+        <sub style="color: #94a3b8; font-size: 11px;">In-Memory ONNX Runtime</sub>
+      </td>
+      <td width="33%" align="center" style="padding: 16px; border: 1px solid #161f30;">
+        <span style="color: #64748b; font-size: 11px; font-family: monospace; letter-spacing: 1px;">🛡️ DATA INTEGRITY</span><br/>
+        <strong style="color: #10b981; font-size: 20px; font-family: monospace;">ACID Double-Entry</strong><br/>
+        <sub style="color: #94a3b8; font-size: 11px;">Append-Only Ledger Engine</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center" style="padding: 16px; border: 1px solid #161f30;">
+        <span style="color: #64748b; font-size: 11px; font-family: monospace; letter-spacing: 1px;">🔒 MUTEX CONCURRENCY</span><br/>
+        <strong style="color: #ef4444; font-size: 18px; font-family: monospace;">Redis Redlock + Lua</strong><br/>
+        <sub style="color: #94a3b8; font-size: 11px;">Zero Over-selling Anomalies</sub>
+      </td>
+      <td width="33%" align="center" style="padding: 16px; border: 1px solid #161f30;">
+        <span style="color: #64748b; font-size: 11px; font-family: monospace; letter-spacing: 1px;">📡 STREAM RELIABILITY</span><br/>
+        <strong style="color: #00f3ff; font-size: 18px; font-family: monospace;">Kafka DLQ + Jitter</strong><br/>
+        <sub style="color: #94a3b8; font-size: 11px;">Guaranteed At-Least-Once</sub>
+      </td>
+      <td width="33%" align="center" style="padding: 16px; border: 1px solid #161f30;">
+        <span style="color: #64748b; font-size: 11px; font-family: monospace; letter-spacing: 1px;">🔄 RECOVERY PROTOCOL</span><br/>
+        <strong style="color: #f59e0b; font-size: 18px; font-family: monospace;">Saga Orchestration</strong><br/>
+        <sub style="color: #94a3b8; font-size: 11px;">Auto Compensating Rollbacks</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```
 ### 🏗️ CORE ENGINEERING FOUNDATIONS
 
 #### 01. Distributed Concurrency & Transactions
