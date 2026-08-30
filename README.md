@@ -1,6 +1,3 @@
-GitHub profile README ko top 1% distributed systems engineer ke aesthetic aur depth ke hisab se fully upgrade kar diya hai. Isme **Live System Design ASCII Architectures**, **Distributed Systems Failure Matrix**, aur **Benchmarked Metrics Grid** inject kiya gaya hai:
-
-
 <div align="center">
   <h1>⚡ MOHD ARSHAD</h1>
   <p><strong>Distributed Systems & High-Concurrency Backend Engineer</strong></p>
@@ -28,9 +25,6 @@ GitHub profile README ko top 1% distributed systems engineer ke aesthetic aur de
 └─────────────────────────┴──────────────────────────┴─────────────────────────┘
 
 ```
-
----
-
 ### 🏗️ CORE ENGINEERING FOUNDATIONS
 
 #### 01. Distributed Concurrency & Transactions
