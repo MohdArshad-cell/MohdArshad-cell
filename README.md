@@ -142,20 +142,12 @@ blocking direct `UPDATE` / `DELETE` statements at the database schema layer.
 ### 🛠️ TECHNICAL ARSENAL
 
 | Domain | Production Tooling & Protocols |
-| --- | --- |
+| :--- | :--- |
 | **Languages** | Java 21 (Virtual Threads), Python, SQL (PostgreSQL), TypeScript |
-| **Distributed Systems** | Spring Boot 3, Apache Kafka, Redis (Redlock, Lua, Caching), Saga Pattern, Outbox Pattern, gRPC, REST
-
- |
-| **Databases & Storage** | PostgreSQL (Double-Entry Bookkeeping, Index Tuning, HikariCP), MongoDB, Redis
-
- |
+| **Distributed Systems** | Spring Boot 3, Apache Kafka, Redis (Redlock, Lua, Caching), Saga Pattern, Transactional Outbox, gRPC, REST[cite: 1] |
+| **Databases & Storage** | PostgreSQL (Append-Only Ledger, Index Tuning, HikariCP), MongoDB, Redis[cite: 1] |
 | **Resilience & Telemetry** | Resilience4j, Prometheus, Grafana, Distributed Tracing (Zipkin/OpenTelemetry), Testcontainers |
-| **AI & Computational** | ONNX Runtime (JVM), Spring AI, Google Gemini API, DistilBERT, Scikit-learn
-
- |
-| **Cloud & Infrastructure** | Docker Multi-Stage, Kubernetes (HPA scaling on Kafka lag), Linux/Bash, GitHub Actions CI/CD
-
- |
+| **AI & Computational** | ONNX Runtime (JVM), Spring AI, Google Gemini API, DistilBERT, Scikit-learn[cite: 1] |
+| **Cloud & Infrastructure** | Docker Multi-Stage, Kubernetes (HPA scaling on Kafka lag), Linux/Bash, GitHub Actions CI/CD[cite: 1] |
 
 ---
